@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.sample h5{
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+}
+
+.rectangle{
+    background-color: #90ee90;
+}
